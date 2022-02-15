@@ -1,0 +1,74 @@
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\appsettings.json
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.exe
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.deps.json
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.runtimeconfig.json
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.runtimeconfig.dev.json
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.dll
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.pdb
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.Views.dll
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.Views.pdb
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.csproj.AssemblyReference.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.AssemblyInfoInputs.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.AssemblyInfo.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.csproj.CoreCompileInputs.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.MvcApplicationPartsAssemblyInfo.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorAssemblyInfo.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorAssemblyInfo.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\staticwebassets\AppFlowSkeleton.StaticWebAssets.Manifest.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.TagHelpers.input.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.TagHelpers.output.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorCoreGenerate.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Home\404.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorTargetAssemblyInfo.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorTargetAssemblyInfo.cs
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.Views.pdb
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.dll
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.pdb
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.genruntimeconfig.cache
+D:\3. application flow\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.csproj.CopyComplete
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.exe
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.deps.json
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.runtimeconfig.json
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.runtimeconfig.dev.json
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.dll
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.pdb
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.Views.dll
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\bin\Debug\netcoreapp3.1\AppFlowSkeleton.Views.pdb
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.csproj.AssemblyReference.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.AssemblyInfoInputs.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.AssemblyInfo.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.csproj.CoreCompileInputs.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorAssemblyInfo.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorAssemblyInfo.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\staticwebassets\AppFlowSkeleton.StaticWebAssets.Manifest.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.TagHelpers.input.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.TagHelpers.output.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorCoreGenerate.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Home\404.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorTargetAssemblyInfo.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.RazorTargetAssemblyInfo.cs
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.Views.pdb
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.dll
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.pdb
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.genruntimeconfig.cache
+D:\Repos\Academy_Materials\3. application flow - Copy\3. application flow\AppFlowSkeleton\AppFlowSkeleton\obj\Debug\netcoreapp3.1\AppFlowSkeleton.csproj.CopyComplete

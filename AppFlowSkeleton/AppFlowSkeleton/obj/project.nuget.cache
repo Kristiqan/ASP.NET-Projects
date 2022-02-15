@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DBei/TbNCezlRKl4wTC8PAmADb7QZ21ne9MUDi1ev9S5LDb6hEZJCUqNk5znXR9ph07tYfwvI/gYdfLU6CU3g==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\Academy_Materials\\3. application flow - Copy\\3. application flow\\AppFlowSkeleton\\AppFlowSkeleton\\AppFlowSkeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javkamkrastavizi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
