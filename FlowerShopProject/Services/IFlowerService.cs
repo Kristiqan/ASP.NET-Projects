@@ -8,5 +8,9 @@ namespace FlowerShopProject.Services
         void AddFlower(Flower flowertoAdd);
 
         List<Flower> GetFlower();
+
+        Flower GetById( int id);
+
+        void EditPurchase(Flower flower);
     }
 }

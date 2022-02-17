@@ -9,7 +9,7 @@ else
 {
     foreach (var flower in Model)
     {
-        <div class="row table-bordered">
+        <div onclick="getFlower('Flower.Id')" class="row table-bordered flower-card">
             <div class="col-6 table-primary">
                Flower: @flower.FlowerName
             </div> 
@@ -29,5 +29,9 @@ else
     }
 }
 
-
+<script>
+    const getFlower = (id) => {
+        window.location = `/Home/GetFlower/${id}`
+    }
+</script>
     

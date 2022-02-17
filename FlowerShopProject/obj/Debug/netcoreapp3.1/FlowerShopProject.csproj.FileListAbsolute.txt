@@ -75,3 +75,4 @@ D:\Repos\ASP.NET-Projects\FlowerShopProject\obj\Debug\netcoreapp3.1\FlowerShopPr
 D:\Repos\ASP.NET-Projects\FlowerShopProject\obj\Debug\netcoreapp3.1\FlowerShopProject.pdb
 D:\Repos\ASP.NET-Projects\FlowerShopProject\obj\Debug\netcoreapp3.1\FlowerShopProject.genruntimeconfig.cache
 D:\Repos\ASP.NET-Projects\FlowerShopProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddFlower.cshtml.g.cs
+D:\Repos\ASP.NET-Projects\FlowerShopProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetFlower.cshtml.g.cs

@@ -23,7 +23,7 @@ namespace FlowerShopProject.Controllers
 
         public IActionResult Index()
         {
-            return View(this.flowerService.GetFlower(););
+            return View(this.flowerService.GetFlower());
         }
 
         public IActionResult Privacy()
@@ -46,6 +46,17 @@ namespace FlowerShopProject.Controllers
             return RedirectToAction("Index");
         }
 
+        public IActionResult GetFlower(int id)
+        {
+            var flower = this.flowerService.GetById(id);
+            return View(flower);
+        }
+
+        public IActionResult EditPurchase(Flower flowertoEdit)
+        {
+            this.flowerService.EditPurchase(flowertoEdit);
+            return RedirectToAction("Index");
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

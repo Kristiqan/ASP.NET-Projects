@@ -27,7 +27,22 @@ namespace FlowerShopProject.Services
             return db.Flowers.ToList();
         }
 
+        public Flower GetById(int id)
+        {
+            return this.db.Flowers.FirstOrDefault(x => x.Id == id);
+        }
 
+        public void EditPurchase(Flower flowertoEdit)
+        {
+            var flower = this.GetById(flowertoEdit.Id);
 
+            flower.FlowerName = flowertoEdit.FlowerName;
+            flower.FlowerFamily = flowertoEdit.FlowerFamily;
+            flower.Quantity = flowertoEdit.Quantity;
+            flower.ShippingAddress = flowertoEdit.ShippingAddress;
+            flower.ShippingDate = flowertoEdit.ShippingDate;
+
+            db.SaveChanges();
+        }
     }
 }

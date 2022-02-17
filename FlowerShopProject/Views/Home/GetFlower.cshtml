@@ -1,6 +1,9 @@
 ﻿@model Flower
 
-<form asp-controller="Home" asp-action="SavePurchase">
+<form asp-controller="Home" asp-action="EditPurchase">
+
+    <input for= "Id" hidden />
+
  <label asp-for="FlowerName" ></label>
  <input class="form-control" asp-for="FlowerName" />
 
@@ -16,5 +19,5 @@
  <label asp-for="ShippingAddress" ></label>
  <input class="form-control" asp-for="ShippingAddress" />
 
- <button class="btn btn-success">Purchase</button>
+ <button class="btn btn-warning">Edit Purchase</button>
 </form>
