@@ -23,7 +23,7 @@ namespace FlowerShopProject.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(this.flowerService.GetFlower(););
         }
 
         public IActionResult Privacy()
@@ -37,11 +37,13 @@ namespace FlowerShopProject.Controllers
             return View();
         }
 
+
+
         [HttpPost]
         public IActionResult SavePurchase(Flower flower)
         {
             this.flowerService.AddFlower(flower);
-            return View();
+            return RedirectToAction("Index");
         }
 
 

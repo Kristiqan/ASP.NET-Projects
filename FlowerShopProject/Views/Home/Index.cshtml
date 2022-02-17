@@ -1,8 +1,33 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model List<Flower>
+
+    @if (Model== null || Model.Count == 0)
+{
+    <h2>No Active Purchase </h2>
+
+}
+else
+{
+    foreach (var flower in Model)
+    {
+        <div class="row table-bordered">
+            <div class="col-6 table-primary">
+               Flower: @flower.FlowerName
+            </div> 
+            <div class="col-6">
+               Flower: @flower.FlowerFamily
+            </div> 
+            <div class="col-6">
+               Flower: @flower.Quantity
+            </div> 
+            <div class="col-6">
+               Flower: @flower.ShippingAddress
+            </div> 
+            <div class="col-6">
+               Flower: @flower.ShippingDate
+            </div> 
+        </div>
+    }
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+    
