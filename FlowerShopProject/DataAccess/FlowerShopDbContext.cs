@@ -12,10 +12,6 @@
 
         }
         
-        
-        
-        
-        
         public DbSet<Flower> Flowers { get; set; }
 
         

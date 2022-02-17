@@ -1,0 +1,21 @@
+﻿@model Flower
+
+<form asp-controller="Home" asp-action="SavePurchase">
+ <label asp-for="FlowerName" ></label>
+ <input class="form-control" asp-for="FlowerName" />
+
+ <label asp-for="FlowerFamily" ></label>
+ <input class="form-control" asp-for="FlowerFamily" />
+
+ <label asp-for="Quantity" ></label>
+ <input class="form-control" asp-for="Quantity" />
+
+  <label asp-for="ShippingDate" ></label>
+ <input class="form-control" asp-for="ShippingDate" />
+
+ <label asp-for="ShippingAddress" ></label>
+ <input class="form-control" asp-for="ShippingAddress" />
+
+ <button>Purchase</button>
+ <button>Cancel Purchase</button>
+</form>

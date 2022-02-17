@@ -1,4 +1,6 @@
-﻿using FlowerShopProject.Models;
+﻿using FlowerShopProject.Data;
+using FlowerShopProject.Models;
+using FlowerShopProject.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -11,12 +13,13 @@ namespace FlowerShopProject.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IFlowerService flowerService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IFlowerService flowerService)
         {
-            _logger = logger;
+            this.flowerService = flowerService;
         }
+
 
         public IActionResult Index()
         {
@@ -27,6 +30,20 @@ namespace FlowerShopProject.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public IActionResult AddFlower()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult SavePurchase(Flower flower)
+        {
+            this.flowerService.AddFlower(flower);
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
