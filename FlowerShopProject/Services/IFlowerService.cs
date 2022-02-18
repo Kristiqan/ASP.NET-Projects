@@ -12,5 +12,7 @@ namespace FlowerShopProject.Services
         Flower GetById(int id);
 
         void EditPurchase(Flower flower);
+
+        void DeletePurchase(int id);
     }
 }

@@ -30,8 +30,6 @@ namespace FlowerShopProject
 
             services.AddMvc();
 
-            services.AddSession();
-
             services.AddControllersWithViews();
 
             services.AddDbContext<FlowerShopDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString")));
@@ -50,7 +48,7 @@ namespace FlowerShopProject
                
                 app.UseHsts();
             }
-            app.UseSession();
+           
 
             app.UseHttpsRedirection();
 

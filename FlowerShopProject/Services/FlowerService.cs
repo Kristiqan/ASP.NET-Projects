@@ -45,6 +45,12 @@ namespace FlowerShopProject.Services
             return this.db.Flowers.FirstOrDefault(x => x.Id == id);
         }
 
-       
+        public void DeletePurchase(int id)
+        {
+            var PurchaseToBeDeleted = this.GetById(id);
+            this.db.Flowers.Remove(PurchaseToBeDeleted);
+            
+            db.SaveChanges();
+        }
     }
 }

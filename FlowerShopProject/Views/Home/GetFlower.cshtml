@@ -24,12 +24,10 @@
  <button class="btn btn-warning">Edit Purchase</button>
 </form>
 
-
-
-
+  <br>
   
     <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#exampleModal">
-        Delete student information
+        Cancel Purchase 
     </button>
 
     
@@ -37,19 +35,24 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Delete student</h5>
+                    <h5 class="modal-title" id="exampleModalLabel">Cancel Purchase</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    Are you sure you want to delete all information about this student?
+                    Are you sure you want to delete all information about this Purchase?
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" onclick="deleteStudent()" class="btn btn-danger">Yes</button>
+                    <button type="button" onclick="deletePurchase()" class="btn btn-danger">Yes</button>
                 </div>
             </div>
         </div>
     </div>
 
+    <script>
+        const deletePurchase = () => {
+            window.location = `/Home/DeletePurchase/${@Model.Id}`
+        }
+    </script>

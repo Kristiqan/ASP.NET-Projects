@@ -31,6 +31,16 @@ namespace FlowerShopProject.Controllers
             return View();
         }
 
+        public IActionResult WeDeliverTo()
+        {
+            return View();
+        }
+
+        public IActionResult Reviews()
+        {
+            return View();
+        }
+
         [HttpGet]
         public IActionResult AddFlower()
         {
@@ -55,6 +65,12 @@ namespace FlowerShopProject.Controllers
         public IActionResult EditPurchase(Flower flowertoEdit)
         {
             this.flowerService.EditPurchase(flowertoEdit);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult DeletePurchase(int id)
+        {
+            this.flowerService.DeletePurchase(id);
             return RedirectToAction("Index");
         }
 
