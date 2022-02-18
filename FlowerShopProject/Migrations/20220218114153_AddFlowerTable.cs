@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace FlowerShopProject.Migrations
 {
-    public partial class PurchaseFlowerTable : Migration
+    public partial class AddFlowerTable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -16,7 +16,7 @@ namespace FlowerShopProject.Migrations
                     FlowerName = table.Column<string>(nullable: true),
                     FlowerFamily = table.Column<string>(nullable: true),
                     Quantity = table.Column<int>(nullable: false),
-                    ShippingAddress = table.Column<string>(nullable: false),
+                    ShippingAddress = table.Column<string>(nullable: true),
                     ShippingDate = table.Column<DateTime>(nullable: false)
                 },
                 constraints: table =>

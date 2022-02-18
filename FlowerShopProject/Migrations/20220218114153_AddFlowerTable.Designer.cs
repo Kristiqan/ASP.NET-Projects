@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlowerShopProject.Migrations
 {
     [DbContext(typeof(FlowerShopDbContext))]
-    [Migration("20220217184640_PurchaseFlowerTable")]
-    partial class PurchaseFlowerTable
+    [Migration("20220218114153_AddFlowerTable")]
+    partial class AddFlowerTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

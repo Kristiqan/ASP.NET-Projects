@@ -21,17 +21,6 @@ namespace FlowerShopProject.Services
             db.SaveChanges(); 
         }
 
-
-        public List<Flower> GetFlower()
-        {
-            return db.Flowers.ToList();
-        }
-
-        public Flower GetById(int id)
-        {
-            return this.db.Flowers.FirstOrDefault(x => x.Id == id);
-        }
-
         public void EditPurchase(Flower flowertoEdit)
         {
             var flower = this.GetById(flowertoEdit.Id);
@@ -44,5 +33,18 @@ namespace FlowerShopProject.Services
 
             db.SaveChanges();
         }
+
+
+        public List<Flower> GetFlower()
+        {
+            return db.Flowers.ToList();
+        }
+
+        public Flower GetById(int id)
+        {
+            return this.db.Flowers.FirstOrDefault(x => x.Id == id);
+        }
+
+       
     }
 }

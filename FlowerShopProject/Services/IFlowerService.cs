@@ -9,7 +9,7 @@ namespace FlowerShopProject.Services
 
         List<Flower> GetFlower();
 
-        Flower GetById( int id);
+        Flower GetById(int id);
 
         void EditPurchase(Flower flower);
     }

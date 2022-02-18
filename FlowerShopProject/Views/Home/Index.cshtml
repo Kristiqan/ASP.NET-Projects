@@ -9,21 +9,21 @@ else
 {
     foreach (var flower in Model)
     {
-        <div onclick="getFlower('Flower.Id')" class="row table-bordered flower-card">
-            <div class="col-6 table-primary">
-               Flower: @flower.FlowerName
+        <div onclick="getFlower('@flower.Id')" class="row table-bordered">
+            <div class="col-12 table-primary">
+               Flower Name: @flower.FlowerName
             </div> 
-            <div class="col-6">
-               Flower: @flower.FlowerFamily
+            <div class="col-12">
+               Flower Family: @flower.FlowerFamily
             </div> 
-            <div class="col-6">
-               Flower: @flower.Quantity
+            <div class="col-12">
+               Flower Quantity: @flower.Quantity
             </div> 
-            <div class="col-6">
-               Flower: @flower.ShippingAddress
+            <div class="col-12">
+               Shipping Address: @flower.ShippingAddress
             </div> 
-            <div class="col-6">
-               Flower: @flower.ShippingDate
+            <div class="col-12">
+               Shipping Date: @flower.ShippingDate
             </div> 
         </div>
     }
