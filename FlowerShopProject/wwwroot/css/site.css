@@ -34,7 +34,7 @@
 /* REVIEWS Configuration */
 
 .reviews-table {
-    width: 80%;
+    width: 100%;
     margin: auto;
     padding-top: 100px;
     text-align: center;
@@ -77,12 +77,8 @@
     }
 
 
-
-
-
-.row:hover{
-    background-color:aquamarine;
-
+.table-bordered:hover {
+    background-color: aquamarine;
 }
 
 a.navbar-brand {
